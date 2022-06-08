@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Goran Mihajlov",
-  "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" ],
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"related",
+		"words"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
